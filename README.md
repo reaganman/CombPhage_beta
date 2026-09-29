@@ -1,6 +1,8 @@
 # 🧬 CombPhage: Recombinatorial Phage Engineering
 
 **CombPhage** is an pipeline for designing recombinatorial phage engineering experiments.
+**NOTE: This repository contains the beta, CLI-only version of the comphage pipeline.** 
+For current GUI-enabled version please see: https://github.com/reaganman/CombPhage
 
 ---
 
